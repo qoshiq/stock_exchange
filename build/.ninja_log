@@ -1,0 +1,13 @@
+# ninja log v6
+329	397	1786299581107947519	tools/trader_terminal	19fbd60e90dbd9b7
+328	397	1786299581107411280	src/exchange	e820323969018729
+329	397	1786299581108305982	tools/liquidity_bot	3d1df0ec9e7e2157
+3	329	1786299580781942232	CMakeFiles/liquidity_bot.dir/tools/liquidity_bot.cpp.o	f15abadebf63d199
+2	329	1786299580781902887	CMakeFiles/trader_terminal.dir/tools/trader_terminal.cpp.o	f804f96382058180
+2	328	1786299580780942216	CMakeFiles/exchange.dir/src/exchange_main.cpp.o	59caea431418fe36
+4	405	1786299811468664702	CMakeFiles/trader_terminal.dir/tools/trader_terminal.cpp.o	f804f96382058180
+4	416	1786299811467683367	CMakeFiles/exchange.dir/src/exchange_main.cpp.o	59caea431418fe36
+4	416	1786299811469038156	CMakeFiles/liquidity_bot.dir/tools/liquidity_bot.cpp.o	f15abadebf63d199
+416	487	1786299811880730411	tools/liquidity_bot	3d1df0ec9e7e2157
+405	497	1786299811868689870	tools/trader_terminal	19fbd60e90dbd9b7
+416	499	1786299811879690048	src/exchange	e820323969018729
